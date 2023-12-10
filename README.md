@@ -1,6 +1,6 @@
 # Process Scheduling Playground: Exploring Scheduling Algorithms in C
 ## Short description :
-___
+
 Explore process scheduling in operating systems with C. This repository showcases scheduling algorithms (such as FIFO, SRT..). Run the code, observe results, and deepen your understanding of process management. Perfect for OS enthusiasts and developers. Happy coding!
 
 
@@ -25,7 +25,7 @@ The project aims to provide a flexible and extensible simulation tool for studyi
 
 
 ## Installation guide:
-___
+
 Let’s start our mystical installation guide process!
 ### External libraries:
 
