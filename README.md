@@ -21,3 +21,9 @@ The project aims to provide a flexible and extensible simulation tool for studyi
 - Allowing the configuration of simulation parameters, including the number of tasks, arrival intervals, scheduling parameters, etc.
 - Collecting data on task execution and algorithm performance metrics.
 - Visualizing simulation results through graphs and statistics.
+
+
+
+### Installation guide:
+___
+
